@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/cli.py
+src/task_cli.egg-info/PKG-INFO
+src/task_cli.egg-info/SOURCES.txt
+src/task_cli.egg-info/dependency_links.txt
+src/task_cli.egg-info/top_level.txt
+src/tasks/__init__.py
+src/tasks/model.py
+src/tasks/service.py
+src/tasks/storage.py
