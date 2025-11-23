@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Buy Apples at Grocery Store",
+            "description": "go to groceries and buy apples",
+            "tags": [
+                "groccery",
+                "errands"
+            ],
+            "status": "done",
+            "priority": "medium",
+            "due_date": null
+        }
+    ],
+    "notes": []
+}
